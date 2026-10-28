@@ -4,13 +4,12 @@
 
 * Baron Ping-Yeh Hsieh
   * [LinkedIn](https://www.linkedin.com/in/baron-ping-yeh-hsieh-976376290/)
-* Tested on: (TODO) **Google Chrome 156.0** on
+* Tested on: **Google Chrome 156.0** on
   Windows 11, AMD Ryzen 9 7940HS w/ Radeon 780M Graphics, 16GB RAM, NVIDIA GeForce RTX 4060 Laptop GPU
-
-![](images\bicycle.png)
+![](/images/bicycle.png)
 
 ### Live Demo
-![](images\bonsai_point_cloud.png)
+![](/images/bonsai_point_cloud.png)
 
 [Link to Live Demo Website](https://baronhsieh2005.github.io/Project5-WebGPU-Gaussian-Splat-Viewer/)
 
